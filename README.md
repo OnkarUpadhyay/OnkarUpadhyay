@@ -8,5 +8,5 @@
 <p align="center">
   <a href="mailto: u.onkar@op.iitg.ac.in">📫 Email</a> •
   <a href="https://github.com/OnkarUpadhyay?tab=repositories">Projects</a> •
-  <a href="www.linkedin.com/in/onkar-upadhyay-313445371">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/onkar-upadhyay-313445371">LinkedIn</a>
 </p>
