@@ -1,4 +1,9 @@
-## Hi there 👋
+
+<h1 align="center">
+  Hey&nbsp;👋,&nbsp;I'm Onkar
+  wave.gif
+</h1>
+
 
 <!--
 **OnkarUpadhyay/OnkarUpadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
